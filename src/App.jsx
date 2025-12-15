@@ -98,7 +98,7 @@ const destinations = [
             “This was the best travel experience of my life. Everything was
             perfectly organized!”
           </p>
-          <h4 className="font-semibold">— Sarah Johnson</h4>
+          <h4 className="font-semibold">— Sarah Andrew Johnson</h4>
         </div>
       </section>
 
