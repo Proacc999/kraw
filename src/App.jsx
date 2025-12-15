@@ -117,7 +117,7 @@ const destinations = [
 
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-400 py-6 text-center">
-        © 2025 TravelX. All rights reserved.
+        © 2025 TravelX. All rights reserved. Branch(FinMed) y otra
           <div>Main branch is Tech, equity and FMCG</div>
           <div>Main branch is Finance, Media and Sports</div>
       </footer>
