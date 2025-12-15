@@ -111,7 +111,7 @@ const destinations = [
           Start planning your dream vacation today.
         </p>
         <button className="bg-white text-blue-500 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition">
-          Get Started
+          Get Started from other branch
         </button>
       </section>
 
