@@ -114,6 +114,8 @@ const destinations = [
           Get Started from other branch
         </button>
       </section>
+     
+{console.log("hello")}
 
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-400 py-6 text-center">
